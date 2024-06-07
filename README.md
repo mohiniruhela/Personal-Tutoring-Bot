@@ -13,7 +13,7 @@ The Personal Tutoring Bot is designed to assist users with various educational q
 - **Historical Interaction Tracking:** The bot keeps track of past user inputs and generated responses for reference.
 - **Customizable Background:** The interface features a customizable background image for aesthetic appeal.
 
-<h4>## Installation</h4>h4>
+<h4>## Installation</h4>
 
 To run the Personal Tutoring Bot locally, follow these steps:
 
