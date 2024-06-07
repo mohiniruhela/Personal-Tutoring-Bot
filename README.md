@@ -35,6 +35,6 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-<h4>## Usage</h4>h4>
+<h4>## Usage</h4>
 
 Once the Streamlit app is running, you can interact with the Personal Tutoring Bot by entering your questions or prompts in the text input field. The bot will generate responses based on your input and display them in the chat interface.
